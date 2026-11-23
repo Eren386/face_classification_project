@@ -1,0 +1,46 @@
+# Python caches & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE & OS metadata
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Secrets & credentials
+kaggle.json
+.env
+*.pem
+*.key
+
+# Datasets & raw/cropped image folders
+Data/
+Data_cropped/
+celeba_hq_256/
+1024/
+512/
+768/
+train/
+test/
+gpt_midjourney_fakes/
+StyleGAN3_downloads/
+misclassified/
+new_test_data*/
+test_data/
+cropped_face.jpg
+
+# Browser drivers & temporary outputs
+chromedriver-win64/
+*.log
+*_output*.txt
+noisy_images.txt
+
+# Model weights & checkpoints (keep only the published baseline weights)
+*.pth
+*.pt
+!weights/Face_Detector_v1_Gold.pth
