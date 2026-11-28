@@ -2,7 +2,7 @@
 
 > **Project Status: Discontinued / Archived — Open for Community Continuation**
 >
-> Active development of this project has been discontinued due to **training data insufficiency for modern generative AI models** (particularly **xAI Grok / FLUX** and **Ideogram**). The codebase, training pipeline, data-collection scripts, and the best-performing baseline checkpoint (`weights/Face_Detector_v1_Gold.pth`) are open-sourced under the MIT License so anyone interested can fork and continue the work.
+> Active development of this project has been discontinued due to **training data insufficiency for modern generative AI models** (particularly **xAI Grok / FLUX** and **Ideogram**). The codebase, training pipeline, data-collection scripts, and the best-performing baseline checkpoint (`weights/Face_Detector_v1_Gold.pth`) are open-sourced under the MIT License so anyone interested can fork and continue the work.You can use this link to get the dataset I used:https://huggingface.co/datasets/Eren8705/face_classification_project
 
 ---
 
